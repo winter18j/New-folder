@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: machine_monitoring
+Version: 0.1.0
+Requires-Dist: flask==3.0.2
+Requires-Dist: flask-cors==4.0.0
+Requires-Dist: google-generativeai==0.3.2
+Requires-Dist: python-dotenv==1.0.1
+Dynamic: requires-dist

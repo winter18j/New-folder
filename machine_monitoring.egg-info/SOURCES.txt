@@ -1,0 +1,8 @@
+setup.py
+machine_monitoring.egg-info/PKG-INFO
+machine_monitoring.egg-info/SOURCES.txt
+machine_monitoring.egg-info/dependency_links.txt
+machine_monitoring.egg-info/requires.txt
+machine_monitoring.egg-info/top_level.txt
+tests/test_agents.py
+tests/test_api.py
